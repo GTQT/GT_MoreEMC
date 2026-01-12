@@ -144,6 +144,12 @@ dependencies {
         testImplementation 'org.junit.jupiter:junit-jupiter:5.7.1'
         testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
     }
+
+    //GT
+    implementation rfg.deobf("curse.maven:code-chicken-lib-1-8-242818:2779848")
+    implementation rfg.deobf('curse.maven:gregtech-ce-unofficial-557242:5519022')
+
+    implementation rfg.deobf("curse.maven:projecte-226410:2702991")
 }
 
 apply from: 'gradle/scripts/dependencies.gradle'
