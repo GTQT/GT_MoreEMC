@@ -1,0 +1,15 @@
+Java Launcher: C:\Users\Meowmel\.gradle\jdks\azul_systems__inc_-17-amd64-windows.2\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\Meowmel\.gradle\caches\modules-2\files-2.1\dev.toma.configuration\configuration-forge-1.20.1\2.2.0\6a85fae5e89478a8bada0acc109564029647e161\configuration-forge-1.20.1-2.2.0.jar, --output, C:\Users\Meowmel\.gradle\caches\forge_gradle\deobf_dependencies\dev\toma\configuration\configuration-forge-1.20.1\2.2.0_mapped_official_1.20.1\configuration-forge-1.20.1-2.2.0_mapped_official_1.20.1.jar, --mcp, C:\Users\Meowmel\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\Meowmel\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: E:\模组开发\GTMoreEMC\build\_RenameSrg2Mcp_1588636582
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\Meowmel\.gradle\caches\modules-2\files-2.1\dev.toma.configuration\configuration-forge-1.20.1\2.2.0\6a85fae5e89478a8bada0acc109564029647e161\configuration-forge-1.20.1-2.2.0.jar
+Output: C:\Users\Meowmel\.gradle\caches\forge_gradle\deobf_dependencies\dev\toma\configuration\configuration-forge-1.20.1\2.2.0_mapped_official_1.20.1\configuration-forge-1.20.1-2.2.0_mapped_official_1.20.1.jar
+MCP:    C:\Users\Meowmel\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

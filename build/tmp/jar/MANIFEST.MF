@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: gtmoreemc
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: GTMoreEMC
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: 
+Implementation-Timestamp: 2026-01-12T20:28:21+0800
+
